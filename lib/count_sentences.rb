@@ -18,6 +18,5 @@ class String
     self.split(".").count
     self.split("!").count
     self.split("?").count
-    self.sum
   end
 end
